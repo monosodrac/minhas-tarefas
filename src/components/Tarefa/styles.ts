@@ -78,10 +78,6 @@ export const Botao = styled.button`
   cursor: pointer;
 `
 
-export const BotaoSalvar = styled(Botao)`
-  background-color: ${variaveis.verde};
-`
-
 export const BotaoCancelarRemover = styled(Botao)`
   background-color: ${variaveis.vermelho};
 `
